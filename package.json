@@ -1,0 +1,25 @@
+{
+  "name": "unordered-array-remove-g",
+  "version": "1.0.0",
+  "description": "Efficiently remove an element from an unordered array without doing a splice.",
+  "main": "index.js",
+  "scripts": {
+    "test": "tape test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/targeral/unordered-array-remove.git"
+  },
+  "keywords": [
+    "arr"
+  ],
+  "author": "targeral",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/targeral/unordered-array-remove/issues"
+  },
+  "homepage": "https://github.com/targeral/unordered-array-remove#readme",
+  "devDependencies": {
+    "tape": "^4.9.0"
+  }
+}
